@@ -1,3 +1,10 @@
 body {
     background-color: azure;
 }
+
+nav li {
+    text-transform: upercase;
+    color: yellow;
+    background-color: blue;
+    
+}    
