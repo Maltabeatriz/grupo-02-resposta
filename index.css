@@ -14,12 +14,8 @@ nav a{
     font-weight: bold;
     font-family: Arial;
     font-size:25px;
+    transition: background-color 1s;
 
-nav#menu  li:hover {
-  background-color: #606060;
-}
-	
-	
 }
 
 .texto-principal {
