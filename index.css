@@ -2,18 +2,13 @@ body {
     background-color:#FFFAFA;
 }
 
-nav li {
-    display: inline;
-    padding: 10px 10px;
-}
 
-nav a{
-    text-transform: uppercase;
-    color: #000000;
-    background-color: #EEE8AA;
-    font-weight: bold;
-    font-family: Arial;
-    font-size:25px;
+nav#menu li {
+  display: inline-block;
+  background: #dddddd;
+  padding: 10px;
+  margin: 2px;
+  transition: background-color 1s;
 }
 
 nav#menu  li:hover {
@@ -33,15 +28,19 @@ nav#menu a:hover {
 
 
 
+nav li {
+    display: inline;
+    padding: 10px 10px;
+}
 
-
-
-
-
-
-
-
-
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    background-color: #EEE8AA;
+    font-weight: bold;
+    font-family: Arial;
+    font-size:25px;
+}
 
 .texto-principal {
     margin-right: 20%; 
