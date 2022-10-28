@@ -2,11 +2,6 @@ body {
     background-color:#FFFAFA;
 }
 
-
-nav#menu  li:hover {
-  background-color: #606060;
-}
-
 nav#menu a {
   color: black;
   text-decoration: none;
