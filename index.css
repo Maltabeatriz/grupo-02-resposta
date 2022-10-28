@@ -10,6 +10,8 @@ nav a{
     text-transform: uppercase;
     color: blue;
     background-color: #EEE8AA;
+    font-weight: bold;
+	
 }
 
 .texto-principal {
