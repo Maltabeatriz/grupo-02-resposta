@@ -3,14 +3,6 @@ body {
 }
 
 
-nav#menu li {
-  display: inline-block;
-  background: #dddddd;
-  padding: 10px;
-  margin: 2px;
-  transition: background-color 1s;
-}
-
 nav#menu  li:hover {
   background-color: #606060;
 }
